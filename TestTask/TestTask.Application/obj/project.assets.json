@@ -3491,11 +3491,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\історія\\Self_Education\\TestTask\\TestTask.Application\\TestTask.Application.csproj",
+      "projectUniqueName": "E:\\історія\\Self_Education\\Project\\TestTaskWithCRUDOperations\\TestTask\\TestTask.Application\\TestTask.Application.csproj",
       "projectName": "TestTask.Application",
-      "projectPath": "E:\\історія\\Self_Education\\TestTask\\TestTask.Application\\TestTask.Application.csproj",
+      "projectPath": "E:\\історія\\Self_Education\\Project\\TestTaskWithCRUDOperations\\TestTask\\TestTask.Application\\TestTask.Application.csproj",
       "packagesPath": "C:\\Users\\Volodya Khydzik\\.nuget\\packages\\",
-      "outputPath": "E:\\історія\\Self_Education\\TestTask\\TestTask.Application\\obj\\",
+      "outputPath": "E:\\історія\\Self_Education\\Project\\TestTaskWithCRUDOperations\\TestTask\\TestTask.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3514,8 +3514,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "E:\\історія\\Self_Education\\TestTask\\TestTask.Data\\TestTask.Data.csproj": {
-              "projectPath": "E:\\історія\\Self_Education\\TestTask\\TestTask.Data\\TestTask.Data.csproj"
+            "E:\\історія\\Self_Education\\Project\\TestTaskWithCRUDOperations\\TestTask\\TestTask.Data\\TestTask.Data.csproj": {
+              "projectPath": "E:\\історія\\Self_Education\\Project\\TestTaskWithCRUDOperations\\TestTask\\TestTask.Data\\TestTask.Data.csproj"
             }
           }
         }

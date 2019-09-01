@@ -8147,11 +8147,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\історія\\Self_Education\\TestTask\\NUnitTestWeb\\NUnitTestWeb.csproj",
+      "projectUniqueName": "E:\\історія\\Self_Education\\Project\\TestTaskWithCRUDOperations\\TestTask\\NUnitTestWeb\\NUnitTestWeb.csproj",
       "projectName": "NUnitTestWeb",
-      "projectPath": "E:\\історія\\Self_Education\\TestTask\\NUnitTestWeb\\NUnitTestWeb.csproj",
+      "projectPath": "E:\\історія\\Self_Education\\Project\\TestTaskWithCRUDOperations\\TestTask\\NUnitTestWeb\\NUnitTestWeb.csproj",
       "packagesPath": "C:\\Users\\Volodya Khydzik\\.nuget\\packages\\",
-      "outputPath": "E:\\історія\\Self_Education\\TestTask\\NUnitTestWeb\\obj\\",
+      "outputPath": "E:\\історія\\Self_Education\\Project\\TestTaskWithCRUDOperations\\TestTask\\NUnitTestWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8170,14 +8170,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "E:\\історія\\Self_Education\\TestTask\\TestTask.Application\\TestTask.Application.csproj": {
-              "projectPath": "E:\\історія\\Self_Education\\TestTask\\TestTask.Application\\TestTask.Application.csproj"
+            "E:\\історія\\Self_Education\\Project\\TestTaskWithCRUDOperations\\TestTask\\TestTask.Application\\TestTask.Application.csproj": {
+              "projectPath": "E:\\історія\\Self_Education\\Project\\TestTaskWithCRUDOperations\\TestTask\\TestTask.Application\\TestTask.Application.csproj"
             },
-            "E:\\історія\\Self_Education\\TestTask\\TestTask.Data\\TestTask.Data.csproj": {
-              "projectPath": "E:\\історія\\Self_Education\\TestTask\\TestTask.Data\\TestTask.Data.csproj"
+            "E:\\історія\\Self_Education\\Project\\TestTaskWithCRUDOperations\\TestTask\\TestTask.Data\\TestTask.Data.csproj": {
+              "projectPath": "E:\\історія\\Self_Education\\Project\\TestTaskWithCRUDOperations\\TestTask\\TestTask.Data\\TestTask.Data.csproj"
             },
-            "E:\\історія\\Self_Education\\TestTask\\TestTask.Web\\TestTask.Web.csproj": {
-              "projectPath": "E:\\історія\\Self_Education\\TestTask\\TestTask.Web\\TestTask.Web.csproj"
+            "E:\\історія\\Self_Education\\Project\\TestTaskWithCRUDOperations\\TestTask\\TestTask.Web\\TestTask.Web.csproj": {
+              "projectPath": "E:\\історія\\Self_Education\\Project\\TestTaskWithCRUDOperations\\TestTask\\TestTask.Web\\TestTask.Web.csproj"
             }
           }
         }

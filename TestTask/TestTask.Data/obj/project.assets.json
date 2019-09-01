@@ -3619,11 +3619,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\історія\\Self_Education\\TestTask\\TestTask.Data\\TestTask.Data.csproj",
+      "projectUniqueName": "E:\\історія\\Self_Education\\Project\\TestTaskWithCRUDOperations\\TestTask\\TestTask.Data\\TestTask.Data.csproj",
       "projectName": "TestTask.Data",
-      "projectPath": "E:\\історія\\Self_Education\\TestTask\\TestTask.Data\\TestTask.Data.csproj",
+      "projectPath": "E:\\історія\\Self_Education\\Project\\TestTaskWithCRUDOperations\\TestTask\\TestTask.Data\\TestTask.Data.csproj",
       "packagesPath": "C:\\Users\\Volodya Khydzik\\.nuget\\packages\\",
-      "outputPath": "E:\\історія\\Self_Education\\TestTask\\TestTask.Data\\obj\\",
+      "outputPath": "E:\\історія\\Self_Education\\Project\\TestTaskWithCRUDOperations\\TestTask\\TestTask.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

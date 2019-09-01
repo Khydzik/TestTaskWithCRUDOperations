@@ -1,0 +1,11 @@
+C:\Users\Volodya Khydzik\Desktop\TestTask\TestTask\TestTask.Data\bin\Debug\netcoreapp2.2\TestTask.Data.deps.json
+C:\Users\Volodya Khydzik\Desktop\TestTask\TestTask\TestTask.Data\bin\Debug\netcoreapp2.2\TestTask.Data.dll
+C:\Users\Volodya Khydzik\Desktop\TestTask\TestTask\TestTask.Data\bin\Debug\netcoreapp2.2\TestTask.Data.pdb
+C:\Users\Volodya Khydzik\Desktop\TestTask\TestTask\TestTask.Data\obj\Debug\netcoreapp2.2\TestTask.Data.csproj.CoreCompileInputs.cache
+C:\Users\Volodya Khydzik\Desktop\TestTask\TestTask\TestTask.Data\obj\Debug\netcoreapp2.2\TestTask.Data.AssemblyInfoInputs.cache
+C:\Users\Volodya Khydzik\Desktop\TestTask\TestTask\TestTask.Data\obj\Debug\netcoreapp2.2\TestTask.Data.AssemblyInfo.cs
+C:\Users\Volodya Khydzik\Desktop\TestTask\TestTask\TestTask.Data\obj\Debug\netcoreapp2.2\TestTask.Data.dll
+C:\Users\Volodya Khydzik\Desktop\TestTask\TestTask\TestTask.Data\obj\Debug\netcoreapp2.2\TestTask.Data.pdb
+C:\Users\Volodya Khydzik\Desktop\TestTask\TestTask\TestTask.Data\bin\Debug\netcoreapp2.2\TestTask.Data.runtimeconfig.json
+C:\Users\Volodya Khydzik\Desktop\TestTask\TestTask\TestTask.Data\bin\Debug\netcoreapp2.2\TestTask.Data.runtimeconfig.dev.json
+C:\Users\Volodya Khydzik\Desktop\TestTask\TestTask\TestTask.Data\obj\Debug\netcoreapp2.2\TestTask.Data.csprojAssemblyReference.cache
